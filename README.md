@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sanmeht/MyFirstPipeline/_apis/build/status/sanchitmehta.pipelines-java?branchName=master)](https://dev.azure.com/sanmeht/MyFirstPipeline/_build/latest?definitionId=6&branchName=master)
 
 # Contributing
 
